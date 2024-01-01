@@ -16,6 +16,7 @@ To start training, simple run:
 python3 main.py
 ```
 
+
 We also provide `.launch` files in the `.vscode` folder for launching main through the python debugger.
 
 ## Folder structure
